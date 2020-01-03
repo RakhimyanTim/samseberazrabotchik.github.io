@@ -38955,7 +38955,7 @@ $C:"$0",
 $R:0,
 $S:165}
 F.Ey.prototype={
-E:function(a){return new S.qm(new V.Ds(null),"Flutter Demo",X.W6(null,C.i0,K.bc(a).af.Jk("Open Sans")),null)}}
+E:function(a){return new S.qm(new V.Ds(null),"\u0421\u0430\u043c \u0421\u0435\u0431\u0435 \u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",X.W6(null,C.i0,K.bc(a).af.Jk("Open Sans")),null)}}
 Z.MG.prototype={
 $abY:function(){},
 $ajp:function(){},
@@ -39057,10 +39057,10 @@ $C:"$3",
 $R:3}
 L.Ca.prototype={
 E:function(a){var u=null
-return T.me(H.b([new A.p2(u),T.RZ(new T.iS(C.aa,u,u,new A.oQ("Join Course",u),u))],[N.aO]),C.ae,C.P)}}
+return T.me(H.b([new A.p2(u),T.RZ(new T.iS(C.aa,u,u,new A.oQ("\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u0435\u0435 \u043e \u043f\u0440\u043e\u0435\u043a\u0442\u0435",u),u))],[N.aO]),C.ae,C.P)}}
 Q.Cb.prototype={
 E:function(a){var u=null
-return T.en(H.b([new A.p2(u),new T.bJ(u,100,u,u),new A.oQ("Join Course",u)],[N.aO]),C.b5,C.hZ,C.P)}}
+return T.en(H.b([new A.p2(u),new T.bJ(u,100,u,u),new A.oQ("\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u0435\u0435 \u043e \u043f\u0440\u043e\u0435\u043a\u0442\u0435",u)],[N.aO]),C.b5,C.hZ,C.P)}}
 U.pV.prototype={
 E:function(a){return U.rw(new L.Ca(null),new Q.Cb(null),null)}}
 V.Ds.prototype={
@@ -39086,7 +39086,7 @@ A.p2.prototype={
 E:function(a){return new U.i2(new A.yN(),null,null)}}
 A.yN.prototype={
 $2:function(a,b){var u=null,t=b.a,s=t===C.fN?C.fh:C.fi
-return M.c2(u,T.en(H.b([L.ct("FLUTTER WEB.\nTHE BASICS",u,Z.TG(t),s),new T.bJ(u,30,u,u),L.ct("In this course we will go over the basics of using Flutter Web for website development. Topics will include Responsive Layout, Deploying, Font Changes, Hover Functionality, Modals and more.",u,Z.Tu(t),s)],[N.aO]),C.bd,C.hZ,C.P),u,u,u,u,u,u,u,u,600)},
+return M.c2(u,T.en(H.b([L.ct("\u0421\u0410\u041c \u0421\u0415\u0411\u0415.\n\u0420\u0410\u0417\u0420\u0410\u0411\u041e\u0422\u0427\u0418\u041a",u,Z.TG(t),s),new T.bJ(u,30,u,u),L.ct("\u042d\u0442\u043e\u0442 \u043f\u0440\u043e\u0435\u043a\u0442 \u043f\u0440\u043e \u0441\u0442\u0430\u0440\u0442\u0430\u043f\u044b, \u0442\u043e\u0447\u043d\u0435\u0435 \u043f\u0440\u043e \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0443 \u0432 \u0418\u0422-\u0441\u0442\u0430\u0440\u0442\u0430\u043f\u0430\u0445. \u041a\u0430\u0436\u0434\u044b\u0439 \u043d\u0435\u0434\u0435\u043b\u044e \u044f \u043f\u0438\u0448\u0443 \u043f\u0440\u043e \u043e\u0434\u0438\u043d \u043d\u043e\u0432\u044b\u0439 \u043c\u0430\u043b\u043e\u0438\u0437\u0432\u0435\u0441\u0442\u043d\u044b\u0439 \u0441\u0442\u0430\u0440\u0442\u0430\u043f, \u0438\u043d\u043e\u0433\u0434\u0430 \u0434\u0435\u043b\u044e\u0441\u044c \u043c\u044b\u0441\u043b\u044f\u043c\u0438.",u,Z.Tu(t),s)],[N.aO]),C.bd,C.hZ,C.P),u,u,u,u,u,u,u,u,600)},
 $C:"$2",
 $R:2}
 O.pw.prototype={
