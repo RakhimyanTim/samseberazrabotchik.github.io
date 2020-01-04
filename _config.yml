@@ -16,7 +16,6 @@ baseurl             : "" # the subpath of your site, e.g. /blog
 url                 : "http://127.0.0.1:4000/" #  7277783  the base hostname & protocol for your site, e.g. http://example.com
 twitter_username    : jekyllrb
 github_username     :  jekyll
-favicon: 'img/favicon.png'
 
 paginate: 12
 paginate_path: "/blog/page:num/"
@@ -302,7 +301,7 @@ plan-business-btn_text: 'Get Started'
 
 
 #####################################
-########## Unique Feature ###########
+########## Pricing Tables ###########
 #####################################
 
 unique_feature_title: 'Features that make us Stand Out'
@@ -323,31 +322,6 @@ unique_feature_section_two_title: 'Page Builder'
 unique_feature_section_two_description: 'Vera sought out counseling with me because her doctor advised her to discover the emotional causes of her chronic fatigue.'
 unique_feature_section_two_image: http://127.0.0.1:4000/img/feature/f2.png
 unique_feature_section_two_link: '#'
-
-
-#####################################
-######## important points ###########
-#####################################
-
-important_points_title: 'Features that make us Stand Out'
-important_points_description: 'The first is a non technical method which requires the use of adware removal software. Download free adware and spyware removal software and use advanced tools getting infected.'
-important_points_image: 'img/title-icon.png' 
-
-important_points:
-  - title: 'Search <br> Management<br> System'
-    icon: 'img/points/i1.png'
-    description: 'Staying calm, composed and maintaining strong self esteem in today’s tough environment can be difficult but is not impossible if you follow a few simple guidelines.'
-  - title: 'Data <br> Synchronization <br> Options'
-    icon: 'img/points/i2.png'
-    description: ' We all live in an age that belongs to the young at heart. Life that is becoming extremely fast, day to day, also asks us to remain physically young. Young at heart. '
-  - title: 'Team <br> Management <br> Facilities'
-    icon: 'img/points/i3.png'
-    description: ' Increasing prosperity in our lives can be accomplished by having the right frame of mind. The truth is, our thoughts are very powerful. They are capable of influencing. '
-  - title: 'Schedule <br> Adjustment <br> System'
-    icon: 'img/points/i4.png'
-    description: ' Have you ever had a problem with a burned light? Thanks to the effort of Thomas Edison we no longer need to invent a light bulb. We just go to the store.  '
-
-
 
 
 #####################################
@@ -425,61 +399,6 @@ testimonials:
   avatar: '/img/review/user.png'
   position: 'Head of Marketing, Apple Inc.'
   quotes: 'Who are in extremely love with eco friendly system. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
-#####################################
-##########      FAQ       ###########
-#####################################
-faq-title: 'Select your Best Pricing'
-faq-description: "The first is a non technical method which requires the use of adware removal software. Download free adware and spyware removal software and use advanced tools getting infected. "
-
-#General Issues
-
-faq_general_issues_01_title: 'Dude You Re Getting A Telescope'
-faq_general_issues_01_description: 'Nunc placerat mi id nisi interdum mollis. Praesent pharetra, justo ut scelerisque mattis, leo quam aliquet diam, congue laoreet elit metus eget diam. Proin ac metus diam.'
-
-faq_general_issues_02_title: 'The Basics Of Buying A Telescope'
-faq_general_issues_02_description: 'Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis. leo quam aliquet diam, congue laoreet elit metus eget diam.'
-
-faq_general_issues_03_title: 'Astronomy Binoculars A Great Alternative'
-faq_general_issues_03_description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. Proin ac metus diam.'
-
-faq_general_issues_04_title: 'Do Your Self Realizations Quickly Fade'
-faq_general_issues_04_description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. Proin ac metus diam.'
-
-faq_general_issues_05_title: 'Success Steps For Your Personal Or Business Life'
-faq_general_issues_05_description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. Proin ac metus diam.'
-
-
-#Support Issues
-
-
-faq_support_issues_01_title: 'Success Steps For Your Personal Or Business Life'
-faq_support_issues_01_description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. Proin ac metus diam.'
-
-faq_support_issues_02_title: 'Dude You Re Getting A Telescope'
-faq_support_issues_02_description: 'Nunc placerat mi id nisi interdum mollis. Praesent pharetra, justo ut scelerisque mattis, leo quam aliquet diam, congue laoreet elit metus eget diam. Proin ac metus diam.'
-
-faq_support_issues_03_title: 'The Basics Of Buying A Telescope'
-faq_support_issues_03_description: 'Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis. leo quam aliquet diam, congue laoreet elit metus eget diam.'
-
-faq_support_issues_04_title: 'Astronomy Binoculars A Great Alternative'
-faq_support_issues_04_description: 
-
-
-#Refund Issues
-
-faq_refund_issues_01_title: 'The Basics Of Buying A Telescope'
-faq_refund_issues_01_description: 'Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis. leo quam aliquet diam, congue laoreet elit metus eget diam.'
-
-faq_refund_issues_02_title: 'Astronomy Binoculars A Great Alternative'
-faq_refund_issues_02_description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. Proin ac metus diam.'
-
-faq_refund_issues_03_title: 'Do Your Self Realizations Quickly Fade'
-faq_refund_issues_03_description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. Proin ac metus diam.'
-
-faq_refund_issues_04_title: 'Success Steps For Your Personal Or Business Life'
-faq_refund_issues_04_description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. Proin ac metus diam.'
-
-
 
 
 #####################################

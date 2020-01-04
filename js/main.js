@@ -288,7 +288,7 @@ $(document).ready(function () {
         margin: 0,
         singleItem: true,
         dots: true,
-        // autoplay: 2500,
+        autoplay: 2500,
         slideSpeed: 300,
         paginationSpeed: 500,
         smartSpeed: 800,
@@ -300,6 +300,48 @@ $(document).ready(function () {
     /* ---------------------------------------------
         Blog post pagination
     --------------------------------------------- */
+    $(window).on('load', function () {
+        $('#blog-content2').hide();
+        $('#blog-content3').hide();
+        $('#blog-content4').hide();
+    });
+
+    $('.blog-post')
+        .find('#page-link1').on('click', function (ev1) {
+            ev1.preventDefault();
+            $('#blog-content1').show();
+            $('#blog-content2').hide();
+            $('#blog-content3').hide();
+            $('#blog-content4').hide();
+        });
+
+    $('.blog-post')
+        .find('#page-link2').on('click', function (ev2) {
+            ev2.preventDefault();
+            $('#blog-content1').hide();
+            $('#blog-content2').show();
+            $('#blog-content3').hide();
+            $('#blog-content4').hide();
+        });
+
+    $('.blog-post')
+        .find('#page-link3').on('click', function (ev3) {
+            ev3.preventDefault();
+            $('#blog-content1').hide();
+            $('#blog-content2').hide();
+            $('#blog-content3').show();
+            $('#blog-content4').hide();
+        });
+
+    $('.blog-post')
+        .find('#page-link4').on('click', function (ev4) {
+            ev4.preventDefault();
+            $('#blog-content1').hide();
+            $('#blog-content2').hide();
+            $('#blog-content3').hide();
+            $('#blog-content4').show();
+        });
+
     $('.blog-post').find('.page-item').on('click', function () {
         $('.page-item').removeClass("active");
         $(this).addClass("active");
@@ -308,6 +350,48 @@ $(document).ready(function () {
     /* ---------------------------------------------
         Blog post List pagination
     --------------------------------------------- */
+    $(window).on('load', function () {
+        $('#blog-list-content2').hide();
+        $('#blog-list-content3').hide();
+        $('#blog-list-content4').hide();
+    });
+
+    $('.blog-post-list')
+        .find('#list-page-link1').on('click', function (ev1) {
+            ev1.preventDefault();
+            $('#blog-list-content1').show();
+            $('#blog-list-content2').hide();
+            $('#blog-list-content3').hide();
+            $('#blog-list-content4').hide();
+        });
+
+    $('.blog-post-list')
+        .find('#list-page-link2').on('click', function (ev2) {
+            ev2.preventDefault();
+            $('#blog-list-content1').hide();
+            $('#blog-list-content2').show();
+            $('#blog-list-content3').hide();
+            $('#blog-list-content4').hide();
+        });
+
+    $('.blog-post-list')
+        .find('#list-page-link3').on('click', function (ev3) {
+            ev3.preventDefault();
+            $('#blog-list-content1').hide();
+            $('#blog-list-content2').hide();
+            $('#blog-list-content3').show();
+            $('#blog-list-content4').hide();
+        });
+
+    $('.blog-post-list')
+        .find('#list-page-link4').on('click', function (ev4) {
+            ev4.preventDefault();
+            $('#blog-list-content1').hide();
+            $('#blog-list-content2').hide();
+            $('#blog-list-content3').hide();
+            $('#blog-list-content4').show();
+        });
+
     $('.blog-post-list').find('.page-item').on('click', function () {
         $('.page-item').removeClass("active");
         $(this).addClass("active");
@@ -316,6 +400,47 @@ $(document).ready(function () {
     /* ---------------------------------------------
         Blog post Sidebar pagination
     --------------------------------------------- */
+    $(window).on('load', function () {
+        $('#blog-sidebar-content2').hide();
+        $('#blog-sidebar-content3').hide();
+        $('#blog-sidebar-content4').hide();
+    });
+
+    $('#blog-post-sidebar')
+        .find('#page-link1').on('click', function (ev1) {
+            ev1.preventDefault();
+            $('#blog-sidebar-content1').show();
+            $('#blog-sidebar-content2').hide();
+            $('#blog-sidebar-content3').hide();
+            $('#blog-sidebar-content4').hide();
+        });
+
+    $('#blog-post-sidebar')
+        .find('#page-link2').on('click', function (ev2) {
+            ev2.preventDefault();
+            $('#blog-sidebar-content1').hide();
+            $('#blog-sidebar-content2').show();
+            $('#blog-sidebar-content3').hide();
+            $('#blog-sidebar-content4').hide();
+        });
+
+    $('#blog-post-sidebar')
+        .find('#page-link3').on('click', function (ev3) {
+            ev3.preventDefault();
+            $('#blog-sidebar-content1').hide();
+            $('#blog-sidebar-content2').hide();
+            $('#blog-sidebar-content3').show();
+            $('#blog-sidebar-content4').hide();
+        });
+
+    $('#blog-post-sidebar')
+        .find('#page-link4').on('click', function (ev4) {
+            ev4.preventDefault();
+            $('#blog-sidebar-content1').hide();
+            $('#blog-sidebar-content2').hide();
+            $('#blog-sidebar-content3').hide();
+            $('#blog-sidebar-content4').show();
+        });
 
     $('#blog-post-sidebar').find('.page-item').on('click', function () {
         $('.page-item').removeClass("active");
@@ -325,6 +450,49 @@ $(document).ready(function () {
     /* ---------------------------------------------
         Blog List Sidebar pagination
     --------------------------------------------- */
+    $(window).on('load', function () {
+        $('#blog-list-sidebar-content2').hide();
+        $('#blog-list-sidebar-content3').hide();
+        $('#blog-list-sidebar-content4').hide();
+    });
+
+    $('#blog-list-sidebar')
+        .find('#page-link1').on('click', function (ev1) {
+            console.log('hello');
+            ev1.preventDefault();
+            $('#blog-list-sidebar-content1').show();
+            $('#blog-list-sidebar-content2').hide();
+            $('#blog-list-sidebar-content3').hide();
+            $('#blog-list-sidebar-content4').hide();
+        });
+
+    $('#blog-list-sidebar')
+        .find('#page-link2').on('click', function (ev2) {
+            ev2.preventDefault();
+            $('#blog-list-sidebar-content1').hide();
+            $('#blog-list-sidebar-content2').show();
+            $('#blog-list-sidebar-content3').hide();
+            $('#blog-list-sidebar-content4').hide();
+        });
+
+    $('#blog-list-sidebar')
+        .find('#page-link3').on('click', function (ev3) {
+            ev3.preventDefault();
+            $('#blog-list-sidebar-content1').hide();
+            $('#blog-list-sidebar-content2').hide();
+            $('#blog-list-sidebar-content3').show();
+            $('#blog-list-sidebar-content4').hide();
+        });
+
+    $('#blog-list-sidebar')
+        .find('#page-link4').on('click', function (ev4) {
+            ev4.preventDefault();
+            $('#blog-list-sidebar-content1').hide();
+            $('#blog-list-sidebar-content2').hide();
+            $('#blog-list-sidebar-content3').hide();
+            $('#blog-list-sidebar-content4').show();
+        });
+
     $('#blog-list-sidebar').find('.page-item').on('click', function () {
         // console.log('hello');
         $('.page-item').removeClass("active");
@@ -506,7 +674,6 @@ $(document).ready(function () {
     });
 
 
-
     /* -------------------------------------------------------------------
         Onclick map address hide
      ------------------------------------------------------------------ */
@@ -520,5 +687,4 @@ $(document).ready(function () {
         $(".contact-info").css("display", "block");
         $(".show-btn").css("display", "none");
     });
-
 });
