@@ -31,7 +31,7 @@ plugins:
   - jekyll-feed
 
 # google_analytics
-google_analytics: ''
+google_analytics: 'G-J1VJ9ZHF2M'
 
 # disqus comment
 disqus:
