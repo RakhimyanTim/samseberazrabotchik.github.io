@@ -2,12 +2,12 @@
 ####################################
 ######     Global start     ######
 ####################################
-name                : 'Sam Sebe Razrabotchik'
-title               : 'Sam Sebe Razrabotchik - популярная удаленная и высокооплачивая работа'
+name                : 'СамСебеРазработчик'
+title               : 'Популярная и высокооплачивая удаленная работа'
 email               : rahimtoy@gmail.com
 address             : 'Москва, Выхино '
 phone               : 0185612012035
-tagline             : 'Курсы по обучению разработке мобильного приложения на Flutter (iOS, android и web)' 
+tagline             : 'Создание мобильных приложений на iOS, android и web-приложений' 
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -113,11 +113,11 @@ hero_product_background_image_btn_one_link: '#'
 hero_product_background_image_btn_one_text:  'Browse free demo'
 
 # product_fixed_image
-hero_product_fixed_image_name: 'The most Creative <br> Theame ever in Business' 
-hero_product_fixed_image_text: 'The first is a non technical method which requires the use of adware removal software.  Download free adware and spyware removal software and use advanced tools to help prevent  getting infected.'
+hero_product_fixed_image_name: 'Популярная и высокооплачивая удаленная работа' 
+hero_product_fixed_image_text: 'Создание мобильных приложений на iOS, android и web-приложений.'
 hero_product_fixed_image_image: 'img/iPhoneX.png'
 hero_product_fixed_image_btn_one_link: '#'
-hero_product_fixed_image_btn_one_text:  'Browse free demo'
+hero_product_fixed_image_btn_one_text:  'Попробовать бесплатно'
 
 # product_slider
 hero_product_slider_name: 'The most Creative <br> Theame ever in Business' 
