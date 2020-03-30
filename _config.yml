@@ -2,20 +2,20 @@
 ####################################
 ######     Global start     ######
 ####################################
-name                : 'Becore'
-title               : 'Softdash - Creative SaaS And Software HTML5 Jekyll Template'
-email               : demo@example.com
-address             : '2216 Park Avenue, California 95630 '
+name                : 'Sam Sebe Razrabotchik'
+title               : 'Sam Sebe Razrabotchik - популярная удаленная и высокооплачивая работа'
+email               : rahimtoy@gmail.com
+address             : 'Москва, Выхино '
 phone               : 0185612012035
-tagline             : 'description for your new site here' 
+tagline             : 'Курсы по обучению разработке мобильного приложения на Flutter (iOS, android и web)' 
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl             : "" # the subpath of your site, e.g. /blog
-url                 : "http://127.0.0.1:4000/" #  7277783  the base hostname & protocol for your site, e.g. http://example.com
-twitter_username    : jekyllrb
-github_username     :  jekyll
+url                 : "https://samseberazrabotchik.ru/" #  7277783  the base hostname & protocol for your site, e.g. http://example.com
+twitter_username    : rakhimyan
+github_username     :  RakhimyanTim
 favicon: 'img/favicon.png'
 
 paginate: 12
