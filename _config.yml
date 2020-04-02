@@ -329,7 +329,7 @@ unique_feature_section_two_link: '#'
 
 important_points_title: 'Features that make us Stand Out'
 important_points_description: 'The first is a non technical method which requires the use of adware removal software. Download free adware and spyware removal software and use advanced tools getting infected.'
-important_points_image: 'img/title-icon.png' 
+important_points_image: 'img/title-icon.png'
 
 important_points:
   - title: 'Search <br> Management<br> System'
@@ -502,9 +502,9 @@ contact_address: 'Los Angeles, United States'
 #####################################
 
 footer_title: 'Автор и ведущий'
-footer_name: 'Меня зовут Рахимян. В ИТ с 2013 года. Основатель ряда технологических стартапов (EcoVision, KeepVision). Работал в Uber Russia. Более 30 коммерческих интернет-проектов.'
-footer_description: 'Программу я разработал для своего родного брата, который потерял работу. Но я подумал, что она может оказаться полезной и для других..'
-
+footer_description: 'Меня зовут Рахимян. В ИТ с 2013 года. Основатель ряда технологических стартапов (EcoVision, KeepVision). Работал в Uber Russia. Более 30 коммерческих интернет-проектов.'
+footer_history: 'История'
+footer_history_description: 'Программу я разработал для своего родного брата, который потерял работу. Но я подумал, что она может оказаться полезной и для других..'
 
 
 ####################################
