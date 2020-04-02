@@ -7,7 +7,7 @@ title               : 'Популярная и высокооплачиваем�
 email               : rahimtoy@gmail.com
 address             : 'Москва, Выхино '
 phone               : 0185612012035
-tagline             : 'Создание мобильных приложений на iOS, android и web-приложений' 
+tagline             : 'Курс по созданию мобильных приложений на iOS, Android и Web' 
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -116,7 +116,7 @@ hero_product_background_image_btn_one_text:  'Browse free demo'
 hero_product_fixed_image_name: '#самсеберазработчик' 
 hero_product_fixed_image_text: 'Думаете, как заработать не выходя из дома? чтоб работа была "на себя", популярной и высокооплачиваемой? Я покажу на практике как это сделать.<br>6 простых инструментов для создания любого приложения (iOS, Android, Web), которые может освоить любой подросток. Flutter, Firebase, Google Cloud Platform, Github, реклама в Avito.<br>2 недели в онлайне. Из любой точки планеты.<br>'За программой пишите либо звоните.
 hero_product_fixed_image_image: 'img/iPhoneX.png'
-hero_product_fixed_image_btn_one_link: '#'
+hero_product_fixed_image_btn_one_link: 'https://webby.samseberazrabotchik.ru/#/'
 hero_product_fixed_image_btn_one_text:  'Получить программу'
 
 # product_slider
