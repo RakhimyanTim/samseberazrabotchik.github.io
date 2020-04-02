@@ -505,7 +505,9 @@ footer_title: 'Автор и ведущий'
 footer_description: 'Меня зовут Рахимян. В ИТ с 2013 года. Основатель ряда технологических стартапов (EcoVision, KeepVision). Работал в Uber Russia. Более 30 коммерческих интернет-проектов.'
 footer_history: 'История'
 footer_history_description: 'Программу я разработал для своего родного брата, который потерял работу. Но я подумал, что она может оказаться полезной и для других..'
-
+footer_resources_link_heading: 'Полезное'
+footer_resources_link_one_text: 'Программа'
+footer_resources_link_one_link: 'https://webby.samseberazrabotchik.ru'
 
 ####################################
 ######        Copyright       ######
