@@ -504,35 +504,7 @@ contact_address: 'Los Angeles, United States'
 footer_title: 'Автор и ведущий'
 footer_description: 'Программу я разработал для своего родного брата, который потерял работу. Но я подумал, что она может оказаться полезной и для других..'
 
-footer_resources_link_heading: 'Resources'
-footer_resources_link_one_text: 'Guides'
-footer_resources_link_one_link: '#'
-footer_resources_link_two_text: 'Research'
-footer_resources_link_one_link: '#'
-footer_resources_link_three_text: 'Experts'
-footer_resources_link_one_link: '#'
-footer_resources_link_four_text: 'Agencies'
-footer_resources_link_one_link: '#'
 
-
-footer_features_link_heading: 'Features'
-footer_features_link_one_text: 'Guides'
-footer_features_link_one_link: '#'
-footer_features_link_two_text: 'Research'
-footer_features_link_one_link: '#'
-footer_features_link_three_text: 'Experts'
-footer_features_link_one_link: '#'
-footer_features_link_four_text: 'Agencies'
-footer_features_link_one_link: '#'
-
-
-footer_facebook_link: '#'
-footer_vkontakte_link: '#'
-
-
-mailchimp:
-  user-id: 
-  list-id: 
 
 
 ####################################
