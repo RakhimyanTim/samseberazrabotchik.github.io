@@ -3,15 +3,13 @@
 ######     Global start     ######
 ####################################
 name                : 'Сам себе разработчик'
-title               : 'Как заработать не выходя из дома | Заработок на карантине | удаленная работа'
+title               : 'Как заработать не выходя из дома | Заработок на карантине | Удаленная работа'
 email               : rahimtoy@gmail.com
 address             : 'Москва, Выхино '
 phone               : 0185612012035
-tagline             : 'Курс по созданию мобильных приложений на iOS, Android и Web' 
+tagline             : 'Курс по созданию интернет-проектов на iOS, Android и Web' 
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  6 простых инструментов для создания любого приложения (iOS, Android, Web), которые может освоить любой подросток. Flutter, Firebase, Google Cloud Platform, Github, реклама в Avito.
 baseurl             : "" # the subpath of your site, e.g. /blog
 url                 : "https://samseberazrabotchik.ru/" #  7277783  the base hostname & protocol for your site, e.g. http://example.com
 twitter_username    : rakhimyan
