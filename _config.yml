@@ -2,8 +2,8 @@
 ####################################
 ######     Global start     ######
 ####################################
-name                : 'Сам Себе Разработчик'
-title               : 'Как заработать не выходя из дома | Заработок на карантине | Удаленная работа'
+name                : 'Сам себе разработчик'
+title               : 'Как заработать не выходя из дома, заработок на карантине, удаленная работа'
 email               : rahimtoy@gmail.com
 address             : 'Москва, Выхино '
 phone               : 0185612012035
@@ -113,8 +113,8 @@ hero_product_background_image_btn_one_link: '#'
 hero_product_background_image_btn_one_text:  'Browse free demo'
 
 # product_fixed_image
-hero_product_fixed_image_name: '#самсеберазработчик' 
-hero_product_fixed_image_text: 'Думаете, как заработать не выходя из дома? чтоб работа была "на себя", популярной и высокооплачиваемой? Я покажу на практике как это сделать.<br>6 простых инструментов для создания любого приложения (iOS, Android, Web), которые может освоить любой подросток. Flutter, Firebase, Google Cloud Platform, Github, реклама в Avito.<br>2 недели в онлайне. Из любой точки планеты.<br>'За программой пишите либо звоните.
+hero_product_fixed_image_name: 'Сам себе разработчик' 
+hero_product_fixed_image_text: 'Думаете, как заработать не выходя из дома? чтоб работа была на себя, популярной и высокооплачиваемой? Я покажу на практике как это сделать.<br>6 простых инструментов для создания любого приложения (iOS, Android, Web), которые может освоить любой подросток. Flutter, Firebase, Google Cloud Platform, Github, реклама в Avito.<br>2 недели в онлайне. Из любой точки планеты.<br>'За программой пишите либо звоните.
 hero_product_fixed_image_image: 'img/iPhoneX.png'
 hero_product_fixed_image_btn_one_link: 'https://webby.samseberazrabotchik.ru/#/'
 hero_product_fixed_image_btn_one_text:  'Получить программу'
